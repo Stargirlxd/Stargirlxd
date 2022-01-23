@@ -16,10 +16,7 @@
 <p align="left">
     <a href="https://t.me/itzstargirl" target="blank"><img align="center" src="https://www.pinclipart.com/picdir/middle/374-3744565_telegram-logo-clipart.png" alt="dasun_pamod" height="40" width="40" /></a> &nbsp;&nbsp;
     <a href="https://www.instagram.com/stargirl.xd/" target="blank">
-        <img align="center" src="https://www.net-aware.org.uk/siteassets/images-and-icons/application-icons/app-icons-instagram.png?w=585&scale=down" alt="Dasun Pamod" height="40" width="40" />
-    </a>
-    &nbsp;&nbsp; <a href="https://twitter.com/dasun_pamod" target="blank"><img align="center" src="https://raw.githubusercontent.com/dasunpamod/dasunpamod/main/clipart2105321.png" alt="Dasun Pamod" height="40" width="40" /></a> &nbsp;&nbsp;
-    <a href="https://www.facebtarget="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Dasun Pamod" height="40" width="40" /></a>  target="blank"><img align="center" src="https://www.influxdata.com/wp-content/uploads/GitHub-logo.jpg" alt="Dasun Pamod" height="40" width="40" /></a> &nbsp;&nbsp;
+        <img align="center" src="https://www.net-aware.org.uk/siteassets/images-and-icons/application-icons/app-icons-instagram.png?w=585&scale=down" alt="Dasun Pamod" height="40" width="40f_logo_%282019%29.svg" alt="Dasun Pamod" height="40" width="40" /></a>  target="blank"><img align="center" src="https://www.influxdata.com/wp-content/uploads/GitHub-logo.jpg" alt="Dasun Pamod" height="40" width="40" /></a> &nbsp;&nbsp;
     <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=dasunpamod123@gmail.com" target="blank">
         <img align="center" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png" alt="Dasun Pamod" height="40" width="40" />
     </a>
@@ -69,7 +66,7 @@
  ![](https://komarev.com/ghpvc/?username=dasunpamod&color=green)
  
 <p>
-  <a href="https://github.com/dasunpamod/" align = "center" >
+  <a href="https://github.stargirlxd align = "center" >
     <img width="50%" align="center" alt="Dasun's github stats" src="https://github-readme-stats.vercel.app/api?username=dasunpamod" />
   </a>
  </p> 
