@@ -12,4 +12,4 @@
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-<a href="https://t.me/ITZSTARGIRL_668"><img src="assets/tg.png" height=70px width=70px alt="ITZSTARGIRL=668 " /></a>
+<a href="https://t.me/ITZSTARGIRL"><img src="assets/tg.png" height=70px width=70px alt="ITZSTARGIRL=668 " /></a>
