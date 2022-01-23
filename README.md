@@ -8,8 +8,4 @@
 
 
 
-
-<h3 align="center">Connect with me:</h3>
-
-<p align="center">
-<a href="https://t.me/ITZSTARGIRL"><img src="assets/tg.png" height=70px width=70px alt="ITZSTARGIRL " /></a>
+href="https://t.me/STA4GIRL_XD"><img src="https://img.shields.io/badge/STARGIRL-red.svg?style=for-the-badge&logo=Telegram"></a>
