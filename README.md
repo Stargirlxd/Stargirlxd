@@ -12,5 +12,4 @@
 
 
 
-href="https://mail.google.com/mail/u/?authuser=stargirl.xd007@gmail.com"><img src="assets/mail.png" height=70px width=70px alt="stargirl.xd007@gmail.com" /></a>
-</p>
+href="https://mail.google.com/mail/u/?authuser=stargirl.xd007@gmail.com"><img src
