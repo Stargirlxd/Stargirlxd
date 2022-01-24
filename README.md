@@ -6,7 +6,7 @@
  <br> ![Profile views](https://komarev.com/ghpvc/?username=Stargirlxd&color=blue&style=flat-square&label=Profile+Views) <p align="center"><a href="https://github.com/Stargirlxd"><img src="https://github-readme-stats.vercel.app/api?username=Stargirlxd&show_icons=true&theme=radical"></a></p> <p align="center"><a href="https://github.com/Stargirlxd"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stargirlxd&theme=radical&layout=compact"></a></p>
 
 
-## Hi, I'm Stargirl xd, A Developer from India,up.
+## Hi, I'm Stargirl xd, A Developer from India.
 
 <a href="https://t.me/itzstargirl/"><img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="600px" height="400px" /></a> 
 
@@ -16,9 +16,9 @@
 <p align="left">
     <a href="https://t.me/itzstargirl" target="blank"><img align="center" src="https://www.pinclipart.com/picdir/middle/374-3744565_telegram-logo-clipart.png" alt="stargirl xd" height="40" width="40" /></a> &nbsp;&nbsp;
     <a href="https://www.instagram.com/stargirl.xd/" target="blank">
-        <img align="center" src="https://www.net-aware.org.uk/siteassets/images-and-icons/application-icons/app-icons-instagram.png?w=585&scale=down" alt="stargirl xd" height="40" width="40f_logo_%282019%29.svg" alt="Dasun Pamod" height="40" width="40" /></a>  target="blank"><img align="center" src="https://www.influxdata.com/wp-content/uploads/GitHub-logo.jpg" alt="Dasun Pamod" height="40" width="40" /></a> &nbsp;&nbsp;
+        <img align="center" src="https://www.net-aware.org.uk/siteassets/images-and-icons/application-icons/app-icons-instagram.png?w=585&scale=down" alt="stargirl xd" height="40" width="40f_logo_%282019%29.svg" alt="stargirl xd" height="40" width="40" /></a>  target="blank"><img align="center" src="https://www.influxdata.com/wp-content/uploads/GitHub-logo.jpg" alt="Dasun Pamod" height="40" width="40" /></a> &nbsp;&nbsp;
     <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=stargirlxd007@gmail.com" target="blank">
-        <img align="center" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png" alt="stargirl xd" height="40" width="40" />
+        <img align="center" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png" alt="stargirl xd" height="40" width="40"/>
     </a>
     &nbsp;&nbsp;
 </p>
@@ -27,7 +27,7 @@
 
 <p>
  
-<img width="50%" align="center" alt="Github" src="https://user-images.githubusercontent.com/63133683/126859565-d11ba7e3-9ab0-4731-bf0b-42424ccff05c.gif" />
+<img width="50%" align="center" alt="Github" src="https://tenor.com/RKgy.gif" />
     
 - 🌱 I’m currently learning Python And c++
 - 💬 Ask me about anything, I am happy to help
@@ -69,7 +69,7 @@
     </a>
 </p>
 
-|  <a href="https://t.me/stargirlxd/"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" width="500px" height="120px" /></a> |
+|  
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[stargirl](https://itzstargirl.com)**                                                                                |
 | <a href="https://github.com/stargirlxd"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" |
