@@ -19,8 +19,7 @@
         <img align="center" src="https://www.net-aware.org.uk/siteassets/images-and-icons/application-icons/app-icons-instagram.png?w=585&scale=down" alt="stargirl xd" height="40" width="40f_logo_%282019%29.svg" alt="stargirl xd" height="40" width="40" /></a>  target="blank"><img align="center" src="https://www.influxdata.com/wp-content/uploads/GitHub-logo.jpg" alt="Dasun Pamod" height="40" width="40" /></a> &nbsp;&nbsp;
     <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=stargirlxd007@gmail.com" target="blank">
         <img align="center" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png" alt="stargirl xd" height="40" width="40"/>
-    </a>
-    &nbsp;&nbsp;
+    
 </p>
 
 # Talking about Personal Things.
@@ -71,6 +70,4 @@
 
 |  
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[stargirl](https://itzstargirl.com)**                                                                                |
-| <a href="https://github.com/stargirlxd"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" |
-
+|                                                                      
