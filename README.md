@@ -29,7 +29,7 @@
 
 <br>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you wanna say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so IF YOU WANNA SAY <b>Hi, I'll be happy to meet you more!</b> :blackheart:</em>
 
 # Talking about Personal Things.
 
