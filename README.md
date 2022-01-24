@@ -6,19 +6,19 @@
  <br> ![Profile views](https://komarev.com/ghpvc/?username=Stargirlxd&color=blue&style=flat-square&label=Profile+Views) <p align="center"><a href="https://github.com/Stargirlxd"><img src="https://github-readme-stats.vercel.app/api?username=Stargirlxd&show_icons=true&theme=radical"></a></p> <p align="center"><a href="https://github.com/Stargirlxd"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stargirlxd&theme=radical&layout=compact"></a></p>
 
 
-## Hi, I'm Dasun Pamod , A Developer from Sri Lanka Lk.
+## Hi, I'm Stargirl xd, A Developer from India,up.
 
-<a href="https://t.me/dasun_pamod/"><img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="600px" height="400px" /></a> 
+<a href="https://t.me/itzstargirl/"><img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="600px" height="400px" /></a> 
 
 # Follow me on
 
 
 <p align="left">
-    <a href="https://t.me/itzstargirl" target="blank"><img align="center" src="https://www.pinclipart.com/picdir/middle/374-3744565_telegram-logo-clipart.png" alt="dasun_pamod" height="40" width="40" /></a> &nbsp;&nbsp;
+    <a href="https://t.me/itzstargirl" target="blank"><img align="center" src="https://www.pinclipart.com/picdir/middle/374-3744565_telegram-logo-clipart.png" alt="stargirl xd" height="40" width="40" /></a> &nbsp;&nbsp;
     <a href="https://www.instagram.com/stargirl.xd/" target="blank">
-        <img align="center" src="https://www.net-aware.org.uk/siteassets/images-and-icons/application-icons/app-icons-instagram.png?w=585&scale=down" alt="Dasun Pamod" height="40" width="40f_logo_%282019%29.svg" alt="Dasun Pamod" height="40" width="40" /></a>  target="blank"><img align="center" src="https://www.influxdata.com/wp-content/uploads/GitHub-logo.jpg" alt="Dasun Pamod" height="40" width="40" /></a> &nbsp;&nbsp;
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=dasunpamod123@gmail.com" target="blank">
-        <img align="center" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png" alt="Dasun Pamod" height="40" width="40" />
+        <img align="center" src="https://www.net-aware.org.uk/siteassets/images-and-icons/application-icons/app-icons-instagram.png?w=585&scale=down" alt="stargirl xd" height="40" width="40f_logo_%282019%29.svg" alt="Dasun Pamod" height="40" width="40" /></a>  target="blank"><img align="center" src="https://www.influxdata.com/wp-content/uploads/GitHub-logo.jpg" alt="Dasun Pamod" height="40" width="40" /></a> &nbsp;&nbsp;
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=stargirlxd007@gmail.com" target="blank">
+        <img align="center" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png" alt="stargirl xd" height="40" width="40" />
     </a>
     &nbsp;&nbsp;
 </p>
@@ -58,18 +58,6 @@
     <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
     <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" /> </a>
-</p>
-
-# Github Stats,
-
- 
- ![](https://komarev.com/ghpvc/?username=dasunpamod&color=green)
- 
-<p>
-  <a href="https://github.stargirlxd align = "center" >
-    <img width="50%" align="center" alt="Dasun's github stats" src="https://github-readme-stats.vercel.app/api?username=dasunpamod" />
-  </a>
- </p> 
 
 
 
