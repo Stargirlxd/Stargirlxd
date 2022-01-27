@@ -8,14 +8,6 @@
 
 ## Hi, I'm Stargirl xd, A Developer from India.
 
-
-<a href="https://t.me/itzstargirl/"><img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="600px" height="400px" /></a> 
-
-# Follow me on
-
-
-<p align="left">
-    <a href="https://t.me/itzstargirl" target="blank"><img align="center" src="https://www.pinclipart.com/picdir/middle/374-3744565_telegram-logo-clipart.png" alt="stargirl xd" height="40" width="40" /></a> &nbsp;&nbsp
         
     
 
