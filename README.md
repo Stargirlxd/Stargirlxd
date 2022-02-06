@@ -1,3 +1,11 @@
+<h1 align="center">Hi 🙃, </h1>
+<h1 align="center">I'm ✪✘_.ѕταяgιяℓ_.✘✪</h1>
+
+<h3 align="center">A mystery to be solved!</h3>
+
+<p align="center"><a href="https://t.me/ITZSTARGIRL"><img src="https://img.shields.io/badge/Telegram-Contact%20%40xstargirl-red.svg?logo=telegram"></a></p>
+
+-  I will not work on: [Anything](https://www.dictionary.com/browse/anything)
 
  
 
@@ -6,10 +14,7 @@
  <br> ![Profile views](https://komarev.com/ghpvc/?username=Stargirlxd&color=blue&style=flat-square&label=Profile+Views) <p align="center"><a href="https://github.com/Stargirlxd"><img src="https://github-readme-stats.vercel.app/api?username=Stargirlxd&show_icons=true&theme=radical"></a></p> <p align="center"><a href="https://github.com/Stargirlxd"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stargirlxd&theme=radical&layout=compact"></a></p>
 
 
-## Hi, I'm Stargirl xd, A Developer from India.
 
-        
-    
 
 </p>
 
